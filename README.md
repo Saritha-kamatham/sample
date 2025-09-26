@@ -1,2 +1,2 @@
 # sample
-sample porject with 2 files
+sample project with 2 files
